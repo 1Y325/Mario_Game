@@ -1,0 +1,19 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
+footer{
+  padding-left: 560px;
+  margin-bottom: 70px;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  color: rgb(31, 31, 84);
+}
